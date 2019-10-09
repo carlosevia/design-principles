@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Audiowide&display=swap');
+
 body {
-  font-family: arial;
+  font-family: 'Audiowide', cursive;
 }
 
 .container {
@@ -23,17 +25,18 @@ header {
   padding: 30px;
   text-align: center;
   font-size: 1.4em;
-  background-color: #8B1F41;
+  background-color: #B32C27;
   color: white;
 }
 
 main {
   flex: 1;
   padding: 20px;
+background-color: #2D85CC;
 }
 
 nav {
-  background-color: #E87722;
+  background-color: #2D85CC;
   padding: 20px;
 
 }
@@ -45,7 +48,7 @@ nav li {
 
 aside {
   padding: 20px;
-  background-color: #75787B;
+  background-color: #FDFFB5;
   color: white;
 }
 
@@ -58,7 +61,7 @@ footer {
   padding: 30px;
   text-align: center;
   font-size: 1.4em;
-  background-color: #1AE8B4;
+  background-color: #FF5852;
   color: white;
 }
 
